@@ -6,6 +6,7 @@
 - 🌱 I’ll be developing some projects by using my spare time. Some of it may include CLI, digital signature as a passwordless authentication platform. However, for the time being.., perhaps I may need patreon to actually transform these into official community based projects.
 
 **Patreon (If you would like to support my work):**
+
 patreon.com/user?u=85039626
 
 <!---
