@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chew Lik Hern
+- 👋 Hi, I’m @Chew Lik Hern or you may also recognize me as IT Chew from my youtube channel (https://www.youtube.com/@itchew6357).
 - 👀 I’m interested in all kinds of cybersecurity approaches which will still have their security effects even after data leakage/breaches.
 - 🌱 I’m currently learning something related on cryptography.
 - 💞️ I’m looking to collaborate on any decentralization technology and technologies which help user to regain control over their own data.
