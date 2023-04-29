@@ -1,6 +1,6 @@
 **Sometime in the future, you might be able to view my github profile's readme via something like webarchive. Right now, I think I might need to find sometime to put a slightly more professional email within my github's profile introduction.**
 
-- 👋 Hi, I’m @Chew Lik Hern or you may also recognize me as IT Chew from my youtube channel (https://www.youtube.com/@itchew6357).
+- 👋 Hi, I’m @Chew Lik Hern or you may also recognize me as IT Chew from my youtube channel (https://www.youtube.com/@itchew6357), some may recognize me from this channel of mine on Bilibili(https://space.bilibili.com/628663470).
 - 👀 I’m interested in all kinds of cybersecurity approaches which will still have their security effects even after data leakage/breaches.
 - 🌱 I’m currently learning something related on cryptography.
 - 💞️ I’m looking to collaborate on any decentralization technology and technologies which help user to regain control over their own data.
